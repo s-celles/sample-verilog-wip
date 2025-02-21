@@ -17,7 +17,7 @@ This is an example Verilog project used in Daytona.
 
 ![Circuit](circuit.png)
 
-It's a [substitution box (S-box)](https://en.wikipedia.org/wiki/S-box consisting of 8 interconnected logic gates, including 4 NOR and 4 XOR. The circuit takes a 4-bit input x and produces a 4-bit output y.
+It's a [substitution box (S-box)](https://en.wikipedia.org/wiki/S-box) consisting of 8 interconnected logic gates, including 4 NOR and 4 XOR. The circuit takes a 4-bit input x and produces a 4-bit output y.
 
 Architecture:
 
