@@ -1,0 +1,14 @@
+{
+    "name": "Verilog Development",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mshr-h.veriloghdl"
+            ]
+        }
+    }    
+    //"remoteUser": "daytona"
+}
