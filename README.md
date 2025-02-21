@@ -44,11 +44,11 @@ y(0) = x(1) xor w(0)
 
 Look at [circuit.v](circuit.v) Verilog code.
 
-3. **Compile the circuit**:  
+4. **Compile the circuit**:  
    ```bash  
    iverilog -o circuit circuit.v
    ```  
-4. **Start the Application**:
+5. **Start the Application**:
    ```bash  
    vvp circuit
    ```
